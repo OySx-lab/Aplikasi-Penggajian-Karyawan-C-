@@ -1,0 +1,57 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\Aplikasi Karyawan.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\Aplikasi Karyawan.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Form1.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Menu.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\Aplikasi Karyawan.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.InputDataAbsensi.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.InputDataKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\System.Data.SQLite.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\System.Data.SQLite.xml
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi.06199287.Up2Date
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.InputDataGaji.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\Aplikasi Karyawan.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\Aplikasi Karyawan.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\Aplikasi Karyawan.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\System.Data.SQLite.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\System.Data.SQLite.xml
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.InputDataKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Form1.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Menu.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi.06199287.Up2Date
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Absensi.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Gaji Karyawan App - Copy\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Gaji.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\Aplikasi Karyawan.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\Aplikasi Karyawan.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\Aplikasi Karyawan.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\System.Data.SQLite.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\System.Data.SQLite.xml
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Absensi.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Gaji.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.InputDataKaryawan.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Form1.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Menu.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi.06199287.Up2Date
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\bin\Debug\Guna.UI2.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.EditAbsensi.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pemrograman Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi_Karyawan.Dashboard.resources
+D:\Amikom\KULIAH\Semester_3\UAS\#OFFLINE\Pemrog Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.csproj.AssemblyReference.cache
+D:\Amikom\KULIAH\Semester_3\UAS\#OFFLINE\Pemrog Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.exe
+D:\Amikom\KULIAH\Semester_3\UAS\#OFFLINE\Pemrog Lanjut\Aplikasi Karyawan\Aplikasi Karyawan\obj\Debug\Aplikasi Karyawan.pdb
